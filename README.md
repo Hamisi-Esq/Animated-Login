@@ -1,5 +1,6 @@
 # Animted_login
 This is an animated login page designed in flutter
+It looks Awesome.
 ![Animated Login 1](https://user-images.githubusercontent.com/62157938/114923181-2c61e300-9e35-11eb-8945-540a8873279f.jpg)
 
 
